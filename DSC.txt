@@ -1,0 +1,29 @@
+Desired State Configuration:
+
+Push mode:
+-----------
+Resources: is type of confg you want to do on nodes
+	Get-DscResource | select Name,Module,Properties | Ft -AutoSize 
+
+To know each resource properties details 
+	PS C:\Users\si326363> Get-DscResource File -syntax
+
+File [String] #ResourceName
+{
+    DestinationPath = [string]
+    [Attributes = [string[]]{ Archive | Hidden | ReadOnly | System }]
+    [Checksum = [string]{ CreatedDate | ModifiedDate | SHA-1 | SHA-256 | SHA-512 }]
+    [Contents = [string]]
+    [Credential = [PSCredential]]
+    [DependsOn = [string[]]]
+    [Ensure = [string]{ Absent | Present }]
+    [Force = [bool]]
+    [MatchSource = [bool]]
+    [PsDscRunAsCredential = [PSCredential]]
+    [Recurse = [bool]]
+    [SourcePath = [string]]
+    [Type = [string]{ Directory | File }]
+}
+
+Execute the generated mof file
+	Start-DscConfiguration -Wait -verbose -Path C:\Users\si326363\Desktop\DeployHostFile

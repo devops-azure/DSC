@@ -1,0 +1,166 @@
+
+ 
+PullServer
+ 
+Process :: 07/05/2017 12:52:49 :: Start
+Process :: 07/05/2017 12:52:50 :: Import Module xPSDesiredStateConfiguration
+PullServer :: 07/05/2017 12:52:50 :: setting the node pullserver as pullserver
+DSCServiceFeature :: 07/05/2017 12:52:50 :: start
+DSCServiceFeature :: 07/05/2017 12:52:50 :: check the Dsc Service Feature Exists
+DSCServiceFeature :: 07/05/2017 12:52:50 :: End
+xDscWebService:: 07/05/2017 12:52:50 :: start
+xDscWebService:: 07/05/2017 12:52:50 :: End
+xDscWebService:: 07/05/2017 12:52:50 :: PSDSCComplianceServer start
+xDscWebService:: 07/05/2017 12:52:50 :: PSDSCComplianceServer End
+xDscWebService:: 07/05/2017 12:52:50 :: Dsc Configuration Start
+xDscWebService:: 07/05/2017 12:52:53 :: Dsc Configuration Ens
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:07:54 :: Start
+Target Nodes:: 07/05/2017 13:07:54 :: Start
+Target Nodes Configuration:: 07/05/2017 13:07:54 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:07:54 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:07:54 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:07:54 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:07:54 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:07:54 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:07:54 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:07:54 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:07:54 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:07:54 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:07:54 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:07:54 :: End
+Set Pull Configuration:: 07/05/2017 13:07:55 :: prod start
+Set Pull Configuration:: 07/05/2017 13:07:55 :: prod End
+Target Nodes:: 07/05/2017 13:07:56 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:11:04 :: Start
+Target Nodes:: 07/05/2017 13:11:04 :: Start
+Target Nodes Configuration:: 07/05/2017 13:11:05 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:11:05 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:11:05 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:11:05 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:11:05 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:11:05 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:11:05 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:11:05 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:11:05 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:11:05 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:11:05 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:11:05 :: End
+Set Pull Configuration:: 07/05/2017 13:11:05 :: prod start
+Set Pull Configuration:: 07/05/2017 13:11:05 :: prod End
+Target Nodes:: 07/05/2017 13:11:05 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:21:41 :: Start
+Target Nodes:: 07/05/2017 13:21:41 :: Start
+Target Nodes Configuration:: 07/05/2017 13:21:42 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:21:42 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:21:42 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:21:42 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:21:42 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:21:42 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:21:42 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:21:42 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:21:42 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:21:42 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:21:42 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:21:42 :: End
+Set Pull Configuration:: 07/05/2017 13:21:42 :: prod start
+Set Pull Configuration:: 07/05/2017 13:21:42 :: prod End
+Target Nodes:: 07/05/2017 13:21:42 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:22:04 :: Start
+Target Nodes:: 07/05/2017 13:22:04 :: Start
+Target Nodes Configuration:: 07/05/2017 13:22:05 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:22:05 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:22:05 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:22:05 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:22:05 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:22:05 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:22:05 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:22:05 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:22:05 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:22:05 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:22:05 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:22:05 :: End
+Set Pull Configuration:: 07/05/2017 13:22:05 :: prod start
+Set Pull Configuration:: 07/05/2017 13:22:05 :: prod End
+Target Nodes:: 07/05/2017 13:22:05 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:23:14 :: Start
+Target Nodes:: 07/05/2017 13:23:14 :: Start
+Target Nodes Configuration:: 07/05/2017 13:23:15 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:23:15 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:23:15 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:23:15 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:23:15 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:23:15 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:23:15 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:23:15 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:23:15 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:23:15 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:23:15 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:23:15 :: End
+Set Pull Configuration:: 07/05/2017 13:23:15 :: prod start
+Set Pull Configuration:: 07/05/2017 13:23:15 :: prod End
+Target Nodes:: 07/05/2017 13:23:16 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 13:32:23 :: Start
+Target Nodes:: 07/05/2017 13:32:23 :: Start
+Target Nodes Configuration:: 07/05/2017 13:32:24 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 13:32:24 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 13:32:24 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 13:32:24 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 13:32:24 :: prod End
+Target Nodes Install firefox:: 07/05/2017 13:32:24 :: prod start
+Target Nodes Install firefox:: 07/05/2017 13:32:24 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 13:32:24 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 13:32:24 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 13:32:24 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 13:32:24 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 13:32:24 :: End
+Set Pull Configuration:: 07/05/2017 13:32:24 :: prod start
+Set Pull Configuration:: 07/05/2017 13:32:24 :: prod End
+Target Nodes:: 07/05/2017 13:32:24 :: End
+
+ 
+Target Nodes 
+ 
+Process :: 07/05/2017 14:20:56 :: Start
+Target Nodes:: 07/05/2017 14:20:56 :: Start
+Target Nodes Configuration:: 07/05/2017 14:20:56 :: Start
+Target Nodes WindowsFeature IIS:: 07/05/2017 14:20:56 :: prod Start
+Target Nodes WindowsFeature IIs:: 07/05/2017 14:20:56 :: prod End
+Target Nodes WindowsFeature Asp:: 07/05/2017 14:20:56 :: prod Start
+Target Nodes WindowsFeature:: 07/05/2017 14:20:56 :: prod End
+Target Nodes Install Chorme:: 07/05/2017 14:20:56 :: prod start
+Target Nodes Install Chorme:: 07/05/2017 14:20:56 :: prod End
+Target Nodes set TimeZone:: 07/05/2017 14:20:56 :: prod start
+Target Nodes set TimeZone:: 07/05/2017 14:20:56 :: prod End
+Target Nodes WebSite Deploy:: 07/05/2017 14:20:56 :: prod start
+Target Nodes WebSite Deploy:: 07/05/2017 14:20:59 :: prod Copy website content
+Target Nodes WebSite Deploy:: 07/05/2017 14:20:59 :: prod create new Apppool
+Target Nodes WebSite Deploy:: 07/05/2017 14:20:59 :: prod create new website
+Target Nodes Configuration:: 07/05/2017 14:20:59 :: End
+Set Pull Configuration:: 07/05/2017 14:21:00 :: prod start
+Set Pull Configuration:: 07/05/2017 14:21:00 :: prod End
+Target Nodes:: 07/05/2017 14:21:02 :: End
+
